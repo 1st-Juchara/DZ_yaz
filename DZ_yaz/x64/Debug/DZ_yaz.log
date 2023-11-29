@@ -1,0 +1,3 @@
+﻿  Header.cpp
+C:\U4Oba\ALG_Yaz\DZ_yaz\DZ_yaz\Header.cpp(33,9): warning C4101: temp: неиспользованная локальная переменная
+  DZ_yaz.vcxproj -> C:\U4Oba\ALG_Yaz\DZ_yaz\DZ_yaz\x64\Debug\DZ_yaz.exe

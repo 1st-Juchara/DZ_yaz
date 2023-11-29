@@ -1,6 +1,13 @@
 ﻿#include <iostream>
+#include "Header.h"
+#include <iostream>
+#include <fstream>
+
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    ifstream fin("Data_in.txt");
+    Dijkstra(fin);
+    fin.close();
 }
