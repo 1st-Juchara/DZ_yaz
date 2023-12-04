@@ -8,4 +8,4 @@
 #include <iostream>
 #include <fstream>
 
-void Dijkstra(std::ifstream& fin);
+void Varligin(std::ifstream& fin);
